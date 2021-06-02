@@ -1,0 +1,44 @@
+C:\Users\O.F.Y\source\C# Projeler\Yazılım Mimarisi ve Tasarımı\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\bin\x64\Debug\Diyetisyen_Uygulamasi.exe.config
+C:\Users\O.F.Y\source\C# Projeler\Yazılım Mimarisi ve Tasarımı\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\bin\x64\Debug\Diyetisyen_Uygulamasi.exe
+C:\Users\O.F.Y\source\C# Projeler\Yazılım Mimarisi ve Tasarımı\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\bin\x64\Debug\Diyetisyen_Uygulamasi.pdb
+C:\Users\O.F.Y\source\C# Projeler\Yazılım Mimarisi ve Tasarımı\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\O.F.Y\source\C# Projeler\Yazılım Mimarisi ve Tasarımı\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.Form4.resources
+C:\Users\O.F.Y\source\C# Projeler\Yazılım Mimarisi ve Tasarımı\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.Properties.Resources.resources
+C:\Users\O.F.Y\source\C# Projeler\Yazılım Mimarisi ve Tasarımı\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\O.F.Y\source\C# Projeler\Yazılım Mimarisi ve Tasarımı\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\O.F.Y\source\C# Projeler\Yazılım Mimarisi ve Tasarımı\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.exe
+C:\Users\O.F.Y\source\C# Projeler\Yazılım Mimarisi ve Tasarımı\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.pdb
+C:\Users\O.F.Y\source\C# Projeler\Yazılım Mimarisi ve Tasarımı\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.Login.resources
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\son\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\bin\x64\Debug\Diyetisyen_Uygulamasi.exe.config
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\son\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\bin\x64\Debug\Diyetisyen_Uygulamasi.exe
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\son\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\bin\x64\Debug\Diyetisyen_Uygulamasi.pdb
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\son\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\son\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.Login.resources
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\son\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.Form4.resources
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\son\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.Properties.Resources.resources
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\son\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\son\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\son\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.exe
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\son\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.pdb
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\bin\x64\Debug\Diyetisyen_Uygulamasi.exe.config
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\bin\x64\Debug\Diyetisyen_Uygulamasi.exe
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\bin\x64\Debug\Diyetisyen_Uygulamasi.pdb
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.Login.resources
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.Form4.resources
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.Properties.Resources.resources
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.exe
+C:\Users\HamzaKaya\Desktop\Yazılım Mimarisi ve Tasarımı\ömerin attığı\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.pdb
+C:\Users\O.F.Y\Downloads\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\bin\x64\Debug\Diyetisyen_Uygulamasi.exe.config
+C:\Users\O.F.Y\Downloads\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\bin\x64\Debug\Diyetisyen_Uygulamasi.exe
+C:\Users\O.F.Y\Downloads\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\bin\x64\Debug\Diyetisyen_Uygulamasi.pdb
+C:\Users\O.F.Y\Downloads\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\O.F.Y\Downloads\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.Login.resources
+C:\Users\O.F.Y\Downloads\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.Form4.resources
+C:\Users\O.F.Y\Downloads\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.Properties.Resources.resources
+C:\Users\O.F.Y\Downloads\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\O.F.Y\Downloads\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\O.F.Y\Downloads\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.exe
+C:\Users\O.F.Y\Downloads\Son DENEME\Diyetisyen_Uygulamasi\Diyetisyen_Uygulamasi\obj\x64\Debug\Diyetisyen_Uygulamasi.pdb
